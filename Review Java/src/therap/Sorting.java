@@ -12,7 +12,14 @@ public class Sorting { //using counting sort
 	public static void main(String args[]) {
 		int randomNumber[]= new int[1000];
 		int sortedNumber []= new int[1001];
-
+		for(int i = 0; i < randomNumber.length; i++) {
+			randomNumber[i] = (int)(Math.random()*100); //randomly generating 1000 numbers betweeen 0 to 99
+			
+			if(i%50==0) {					//
+				System.out.println("");		// All of these are just for printing the whole array
+			}								//
+			System.out.print(randomNumber[i]+",");	//
+		}
 		
 //		testing with smaller values
 //		int randomNumber[]= {1,4,1,2,7,9,2};
