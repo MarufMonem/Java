@@ -54,7 +54,7 @@ public class Sorting {
 		}
 		
 		for(int i = 0; i < sortedNumber.length; i++) {
-			System.out.println("index: "+ i + " :" + randomNumber[i]);
+			System.out.println("index: "+ i + " : " + randomNumber[i]);
 		}
 		
 	}
