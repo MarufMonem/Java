@@ -1,0 +1,10 @@
+Prob1008
+Scanner anik = new Scanner(System.in);
+         int number = anik.nextInt();
+         int hour = anik.nextInt();
+         double perHour = anik.nextDouble();
+         DecimalFormat df = new DecimalFormat("0.00"); //for getting the precise value after the decimal point
+         System.out.println("NUMBER = " + number);
+
+         System.out.println("SALARY = U$ " + df.format(hour*perHour));
+ 
