@@ -13,6 +13,6 @@ Contains 2 packages:
 
 #### Therap
 
-*This contains the questions of therapBD given on December 10,2020 for, **Junior Software Developer position.** (you need to import reviewjava to run few of the solves )
+*This contains the questions of therapBD given on December 10,2020 for, **Junior Software Developer position.** (you need to import reviewjava to run few of the solves )*
 
 
