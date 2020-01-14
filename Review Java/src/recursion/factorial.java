@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class factorial {
 
 	public static int calculate(int n) {
-		int total = 0;
 		if(n == 0) {
 			return 1;
 		}else {
