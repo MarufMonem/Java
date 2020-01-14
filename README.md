@@ -3,9 +3,10 @@ Contains different solved problems of java
 
 ### Package Details
 
-Contains 2 packages:
+Contains 3 packages:
 - Review Java
 - Therap
+- Dommy Headed Doubly Linked Circular List
 
 #### Review Java
 
