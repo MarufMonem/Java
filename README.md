@@ -31,13 +31,14 @@ Contains 5 packages:
 
 #### Star Lab
 Contains task 1 to 14 of the famous star lab.
-PROBLEM 1) Number Line
+
+*PROBLEM 1)* Number Line
 Sample input:
 6
 Sample output
 123456
 
-PROBLEM 2) Rectangle 
+*PROBLEM 2)* Rectangle 
 Sample input:
 4
 6
@@ -49,7 +50,7 @@ Sample output
 
 Hint: 4 and 6 means 4 lines of numbers having 1..6 in each line.
 
-PROBLEM 3) Triangle - Left Justified
+*PROBLEM 3)* Triangle - Left Justified
 Draw right angled triangle of given height
 Sample input:
 4
@@ -61,7 +62,7 @@ Sample output
 Hint: One loop for lines, another loop for printing number 1 to i when it is line i.
 
 
-PROBLEM 4) Triangle - Right Justified
+*PROBLEM 4)* Triangle - Right Justified
 Draw right angled triangle of given height
 Sample input:
 4
@@ -71,7 +72,7 @@ Sample output
  123
 1234
 
-PROBLEM 5) Triangle - Isosceles
+*PROBLEM 5)* Triangle - Isosceles
 Draw triangle of given height
 Sample input 1:
 3
@@ -89,7 +90,7 @@ Sample output 2:
 1234567
 
 
-PROBLEM 6) Rhombus
+*PROBLEM 6)* Rhombus
 Just draw the image of the above triangle once. And then, the opposite, once.
 Sample input:
 3
@@ -100,7 +101,7 @@ Sample output
  123
   1
 
-PROBLEM 7) Hollow Rectangle
+*PROBLEM 7)* Hollow Rectangle
 Display a rectangle of given length and width. 
 Sample input:
 4
@@ -113,12 +114,7 @@ Sample output
 Hint 1: Print the character space (‘   ‘)  in the middle.
 Hint 2: You can re-use your solution to PROBLEM 2) Rectangle and use IF condition to selectively print first and last star of each line and all stars of first and last line.
 
-
-
-
-
-
-PROBLEM 8) Hollow Triangle - Left Justified
+*PROBLEM 8)* Hollow Triangle - Left Justified
 Draw right angled triangle of given height
 Sample input:
 5
@@ -130,7 +126,7 @@ Sample output
 12345
 
 
-PROBLEM 9) Hollow Triangle - Right Justified
+*PROBLEM 9)* Hollow Triangle - Right Justified
 Draw right angled triangle of given height
 Sample input:
 5
@@ -141,7 +137,7 @@ Sample output
  2  5
 12345
 
-PROBLEM 10) Hollow  Triangle – Isosceles
+*PROBLEM 10)* Hollow  Triangle – Isosceles
 Draw triangle of given height
 Sample input 1:
 3
@@ -160,7 +156,7 @@ Sample output 2:
 1234567
 
 
-PROBLEM 11) Hollow  Rhombus 
+*PROBLEM 11)* Hollow  Rhombus 
 Just draw the image of the above triangle once. And then, the opposite, once.
 Sample input:
 3
@@ -171,7 +167,7 @@ Sample output
  1 3
   1
 
-PROBLEM 12) Triangle - Right Justified
+*PROBLEM 12)* Triangle - Right Justified
 Draw right angled triangle of given height
 Sample input:
 4
@@ -181,13 +177,13 @@ Sample output
  234
 1234
 
-PROBLEM 13) Palindrome
+*PROBLEM 13)* Palindrome
 Sample input:
 5
 Sample output
 123454321
 
-PROBLEM 14) Palindromic  Triangle
+*PROBLEM 14)* Palindromic  Triangle
 Sample input:
 5
 Sample output
