@@ -3,10 +3,11 @@ Contains different solved problems of java
 
 ### Package Details
 
-Contains 3 packages:
+Contains 4 packages:
 - Review Java
 - Therap
-- Dommy Headed Doubly Linked Circular List
+- Dummy Headed Doubly Linked Circular List
+- Recursion
 
 #### Review Java
 
@@ -23,4 +24,7 @@ Contains 3 packages:
 - Remove (removes items)
 - Print (prints the list)
 - GetNode (give the element it would return the node)
+
+#### Recursion
+*A few practice problems from recursion*
 
