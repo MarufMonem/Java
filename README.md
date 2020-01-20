@@ -36,6 +36,7 @@ Contains task 1 to 14 of the famous star lab.
 Sample input:
 6
 Sample output
+
 123456
 
 *PROBLEM 2)* Rectangle 
@@ -43,6 +44,7 @@ Sample input:
 4
 6
 Sample output
+
 123456
 
 123456
@@ -58,6 +60,7 @@ Draw right angled triangle of given height
 Sample input:
 4
 Sample output
+
 1
 
 12
@@ -74,6 +77,7 @@ Draw right angled triangle of given height
 Sample input:
 4
 Sample output
+
    1
    
   12
@@ -87,6 +91,7 @@ Draw triangle of given height
 Sample input 1:
 3
 Sample output 1:
+
   1
   
  123
@@ -96,6 +101,7 @@ Sample output 1:
 Sample input 2:
 4
 Sample output 2:
+
    1
    
   123
@@ -110,6 +116,7 @@ Just draw the image of the above triangle once. And then, the opposite, once.
 Sample input:
 3
 Sample output
+
   1
   
  123
@@ -127,6 +134,7 @@ Sample input:
 
 5
 Sample output
+
 12345
 
 1   5
@@ -143,6 +151,7 @@ Draw right angled triangle of given height
 Sample input:
 5
 Sample output
+
 1
 
 12
@@ -158,7 +167,9 @@ Draw right angled triangle of given height
 Sample input:
 5
 Sample output
+
     5
+    
    45
    
   3 5
@@ -172,6 +183,7 @@ Draw triangle of given height
 Sample input 1:
 3
 Sample output 1:
+
   1
   
  1 3
@@ -182,6 +194,7 @@ Sample input 2:
 4
 
 Sample output 2:
+
    1
    
   1 3
@@ -195,6 +208,7 @@ Just draw the image of the above triangle once. And then, the opposite, once.
 Sample input:
 3
 Sample output
+
   1
   
  1 3
@@ -210,6 +224,7 @@ Draw right angled triangle of given height
 Sample input:
 4
 Sample output
+
    4
    
   34
@@ -223,6 +238,7 @@ Sample input:
 5
 
 Sample output
+
 123454321
 
 *PROBLEM 14)* Palindromic  Triangle
@@ -230,6 +246,7 @@ Sample input:
 5
 
 Sample output
+
     1
     
    121
