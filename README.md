@@ -20,7 +20,7 @@ Contains 5 packages:
 
 #### Dummy Headed Doubly Linked Circular List
 
-*Contains 4 methods of a cummy headed circular list*
+*Contains 4 methods of a dummy headed circular list*
 - Insert (inserts elements in the list)
 - Remove (removes items)
 - Print (prints the list)
